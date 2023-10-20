@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Fitness App</title>
+        <title>Tizi App</title>
         <link rel="icon"  />
       </Head>
 

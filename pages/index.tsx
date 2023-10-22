@@ -10,7 +10,7 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-        <h1 className={styles.title}>Welcome to the Fitness App</h1>
+        <h1 className={styles.title}>Welcome to the Tizi App</h1>
 
         <p className={styles.description}>
           Get fit and stay healthy with our app!

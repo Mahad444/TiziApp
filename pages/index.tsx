@@ -29,7 +29,7 @@ export default function Home() {
 
           <a href="#" className={styles.card}>
             <h2>Progress &rarr;</h2>
-            <p>Track your progress and see your results.</p>
+            <p>Track your progress and see your results in Real Time</p>
           </a>
 
           <a href="#" className={styles.card}>

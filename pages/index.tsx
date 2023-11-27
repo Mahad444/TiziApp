@@ -18,7 +18,7 @@ export default function Home() {
 
         <div className={styles.grid}>
           <a href="#" className={styles.card}>
-            <h2>Workouts / Exercises &rarr;</h2>
+            <h2>Workouts & Exercises &rarr;</h2>
             <p>View our collection of workouts and exercises.</p>
           </a>
 

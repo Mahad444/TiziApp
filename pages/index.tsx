@@ -22,7 +22,7 @@ export default function Home() {
             <p>View our collection of workouts and exercises.</p>
           </a>
 
-          <a href="#" className={styles.card}>
+          <a href="Nutrition" className={styles.card}>
             <h2>Nutrition &rarr;</h2>
             <p>Learn about healthy eating and nutrition.</p>
           </a>

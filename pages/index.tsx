@@ -13,7 +13,7 @@ export default function Home() {
         <h1 className={styles.title}>Welcome to the Tizi App Where its more than a GYM APP</h1>
 
         <p className={styles.description}>
-          Get fit and stay healthy with our "TIZI" app!
+          Get fit and stay healthy with our "TIZI" app!!!
         </p>
 
         <div className={styles.grid}>

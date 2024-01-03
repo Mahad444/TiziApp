@@ -28,7 +28,7 @@ export default function Home() {
           </a>
 
           <a href="#" className={styles.card}>
-            <h2>Progress &rarr;</h2>
+            <h2>Check Ur Progress &rarr;</h2>
             <p>Track your progress and see your results in Real Time</p>
           </a>
 
